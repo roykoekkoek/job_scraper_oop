@@ -1,1 +1,9 @@
+#Virtual env
 .venv
+
+#Python stuff
+__pycache__
+
+#Env vars
+.env
+
