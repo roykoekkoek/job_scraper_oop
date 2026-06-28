@@ -1,1 +1,7 @@
 .venv
+
+# Ignore SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+data/

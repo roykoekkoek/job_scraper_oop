@@ -1,0 +1,1 @@
+## TODO: Make schemas related to vacancies
