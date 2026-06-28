@@ -6,12 +6,13 @@ class ABNVacancy(BaseModel):
     id: str
     salary_bottom: int
     salary_top: int
-    description: int
+    description: str
     experience_years: int
     city: str
 
 class Vacancy(BaseModel):
-    id: str
+    id: int
+    external_id: str
     company: str
     salary_bottom: Optional[int]
     salary_top: Optional[int]
