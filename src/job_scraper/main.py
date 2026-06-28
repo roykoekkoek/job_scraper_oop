@@ -1,3 +1,3 @@
-import job_scraper.schemas.vacancies
+import schemas.vacancies
 
 print("Hello world!")
